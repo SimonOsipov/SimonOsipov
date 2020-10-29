@@ -9,3 +9,4 @@ Hey, my name is Simon and I am Big Data Engineer / Solution Engineer or just sim
 - 💬 **Communities** MoscowPython, SPB Python, PiterPy, MoscowSpark, KotlingLang
 - 📫 **How to reach me** osipov.simon@gmail.com, [@SimonOsipov](http://t.me/SimonOsipov) @ Telegram, [@OsipovSimon](https://twitter.com/OsipovSimon) @ Twitter, [osipov.simon](https://www.facebook.com/osipov.simon) @ Facebook, [simon-osipov](https://www.linkedin.com/in/simon-osipov/) @ LinkedIn
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=SimonOsipov&count_private=true&show_icons=true" alt="SimonOsipov"/></p>
