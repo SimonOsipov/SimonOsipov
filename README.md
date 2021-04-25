@@ -26,8 +26,11 @@ Hey, my name is Simon and I am Big Data Engineer / Solution Engineer or just sim
   - Committee Member @ [MoscowPythonConf++](https://conf.python.ru/)
   - Former Curator @ [Coursera Big Data Engineer Specialization](https://bigdatateam.org/big-data-engineering)
   - Former Lecturer @ [X5 Analytics School](http://x5-academy.ru/) & [X5 Coding School](https://x5-frontend-academy.ru/)
-- 🤔 **What I like** Real-time, Big Data, Computer Vision, Self-Driving Cars and Space
-- 💬 **Communities** MoscowPython, SPB Python, PiterPy, MoscowSpark, ODS.AI
-- 📫 **How to reach me** osipov.simon@gmail.com, [@SimonOsipov](http://t.me/SimonOsipov) @ Telegram, [@OsipovSimon](https://twitter.com/OsipovSimon) @ Twitter, [osipov.simon](https://www.facebook.com/osipov.simon) @ Facebook, [simon-osipov](https://www.linkedin.com/in/simon-osipov/) @ LinkedIn
+- 📫 **How to reach me** 
+  - osipov.simon@gmail.com
+  - Telegram @ [@SimonOsipov](http://t.me/SimonOsipov)
+  - Twitter @ [@OsipovSimon](https://twitter.com/OsipovSimon)
+  - Facebook @ [osipov.simon](https://www.facebook.com/osipov.simon)
+  - LinkedIn @ [simon-osipov](https://www.linkedin.com/in/simon-osipov/)
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=SimonOsipov&count_private=true&show_icons=true" alt="SimonOsipov"/></p>
