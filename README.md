@@ -2,7 +2,8 @@
 
 Hey, my name is Simon and I am Big Data Engineer / Solution Engineer or just simple Backend Developer from Russia:
 
-- 🏢 **Current work** [SEMrush](https://semrush.com/)
+- 🏢 **Current work** 
+  [SEMrush](https://semrush.com/)
 - 🌱 **Current tech stack** 
   - **Programming Language** Python
   - **BigData** Hadoop, Spark 
