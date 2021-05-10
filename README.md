@@ -20,6 +20,7 @@ Hey, my name is Simon and I am Big Data Engineer / Solution Engineer or just sim
     - Google Cloud Platform
   - **DevOps**
     - Kubernetes
+    - Terraform
 - 💻 **Side activities** 
   - Curator & Founder @ [Learn.Python.Ru](learn.python.ru)
   - TG Channel (RUS) @ ["Труба Данных"](https://t.me/ohmydataengineer)
