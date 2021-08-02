@@ -21,7 +21,9 @@ Hey, my name is Simon and I am Big Data Engineer / Product Engineer / Software D
   - **DevOps**
     - Kubernetes
     - Terraform
-- 💻 **Side activities** 
+
+💻 **Side activities** 
+
   - Curator & Founder @ [Learn.Python.Ru](learn.python.ru)
   - TG Channel (RUS) @ ["Труба Данных"](https://t.me/ohmydataengineer)
   - Committee Member @ [MoscowPythonConf++](https://conf.python.ru/)
