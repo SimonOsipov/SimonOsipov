@@ -28,10 +28,10 @@ Hey, my name is Simon and I am Big Data Engineer / Product Engineer / Software D
   - Former Curator @ [Coursera Big Data Engineer Specialization](https://bigdatateam.org/big-data-engineering)
   - Former Lecturer @ [X5 Analytics School](http://x5-academy.ru/) & [X5 Coding School](https://x5-frontend-academy.ru/)
 - 📫 **How to reach me** 
-  - osipov.simon@gmail.com
-  - Telegram @ [@SimonOsipov](http://t.me/SimonOsipov)
-  - Twitter @ [@OsipovSimon](https://twitter.com/OsipovSimon)
-  - Facebook @ [osipov.simon](https://www.facebook.com/osipov.simon)
-  - LinkedIn @ [simon-osipov](https://www.linkedin.com/in/simon-osipov/)
+[<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/facebook.svg" />][https://www.facebook.com/osipov.simon]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/OsipovSimon]
+[<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][http://t.me/SimonOsipov]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/simon-osipov/]
+
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=SimonOsipov&count_private=true&show_icons=true" alt="SimonOsipov"/></p>
