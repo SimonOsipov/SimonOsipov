@@ -9,9 +9,7 @@ Hey, my name is Simon and I am Big Data Engineer / Product Engineer / Software D
 
 🌱 **Current tech stack** 
 
-**Programming Language** 
-  
-  - Python
+[Python]
 
 **BigData** 
   
