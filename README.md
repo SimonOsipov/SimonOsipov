@@ -1,6 +1,6 @@
 ### Simon is here 👋
 
-Hey, my name is Simon and I am Big Data Engineer / Solution Engineer or just simple Backend Developer from Russia:
+Hey, my name is Simon and I am Big Data Engineer / Product Engineer / Software Developer
 
 - 🏢 **Work Experience** 
   - Data Engineer @ [SEMrush](https://semrush.com/) Apr21 - now
