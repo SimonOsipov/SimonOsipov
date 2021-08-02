@@ -2,10 +2,12 @@
 
 Hey, my name is Simon and I am Big Data Engineer / Product Engineer / Software Developer
 
-- 🏢 **Work Experience** 
+🏢 **Work Experience** 
+
   - Data Engineer @ [SEMrush](https://semrush.com/) Apr21 - now
   - Data Engineer @ [X5 Retail Group](https://www.x5.ru/ru) Feb19 - Apr21
-- 🌱 **Current tech stack** 
+
+🌱 **Current tech stack** 
   - **Programming Language** 
     - Python
   - **BigData** 
