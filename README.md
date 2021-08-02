@@ -8,25 +8,26 @@ Hey, my name is Simon and I am Big Data Engineer / Product Engineer / Software D
   - Data Engineer @ [X5 Retail Group](https://www.x5.ru/ru) Feb19 - Apr21
 
 🌱 **Current tech stack** 
-  - **Programming Language** 
-    - Python
-  - **BigData** 
-    - Hadoop
-    - Spark 
-  - **Storage** 
-    - Hive
-    - Postgres
-    - Greenplum 
-    - Redshift
-  - **Clouds**
-    - Google Cloud Platform
-  - **DevOps**
-    - Kubernetes
-    - Terraform
+
+**Programming Language** 
+  - Python
+**BigData** 
+  - Hadoop
+  - Spark 
+**Storage** 
+  - Hive
+  - Postgres
+  - Greenplum 
+  - Redshift
+**Clouds**
+  - Google Cloud Platform (GCP)
+**DevOps**
+  - Kubernetes (K8S)
+  - Terraform
 
 💻 **Side activities** 
 
-  - Curator & Founder @ [Learn.Python.Ru](learn.python.ru)
+  - Founder @ [Learn.Python.Ru](learn.python.ru)
   - TG Channel (RUS) @ ["Труба Данных"](https://t.me/ohmydataengineer)
   - Committee Member @ [MoscowPythonConf++](https://conf.python.ru/)
   - Former Curator @ [Coursera Big Data Engineer Specialization](https://bigdatateam.org/big-data-engineering)
