@@ -9,7 +9,7 @@ Hey, my name is Simon and I am Big Data Engineer / Product Engineer / Software D
 
 🌱 **Current tech stack** 
 
-Python // Hadoop, Spark // Hive, Postgres, Greenplum, Redshift // Google Cloud Platform (GCP) // Kubernetes (K8S), Terraform
+Python // Hadoop, Spark // SQL, Hive, Postgres, Greenplum, Redshift, Clickhouse // Google Cloud Platform (GCP) // Kubernetes (K8S), Docker, Ansible, Terraform // Airflow
 
 💻 **Side activities** 
 
