@@ -1,6 +1,6 @@
 ### Simon is here 👋
 
-Hey, my name is Simon and I am Big Data Engineer / Product Engineer / Software Developer
+Hey, my name is Simon and I am Big Data Engineer / Product Engineer / Software Developer / Analytics Engineer. I can do a lot of roles =)
 
 🏢 **Work Experience** 
 
