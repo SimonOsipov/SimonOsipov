@@ -2,6 +2,9 @@
 
 Hey, my name is Simon and I am Big Data Engineer / Product Engineer / Software Developer / Analytics Engineer. I can do a lot of roles =)
 
+🚦 **Current Status**
+Not looking for a job and at the current moment not interested in any job offers.
+
 🏢 **Work Experience** 
 
   - Data Engineer @ [SEMrush](https://semrush.com/) Apr21 - Jan22
