@@ -8,6 +8,7 @@ Not looking for a job and at the current moment not interested in any job offers
 
 🏢 **Work Experience** 
 
+  - Senior Data Engineer / Analytics Engineer @ [GETT](https://gett.com/) Jan22 - ... 
   - Data Engineer @ [SEMrush](https://semrush.com/) Apr21 - Jan22
   - Data Engineer @ [X5 Retail Group](https://www.x5.ru/ru) Feb19 - Apr21
 
