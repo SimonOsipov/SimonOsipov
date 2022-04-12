@@ -14,7 +14,7 @@ Not looking for a job and at the current moment not interested in any job offers
 
 🌱 **Current tech stack** 
 
-Python, Groovy // Hadoop, Spark // SQL, Hive, Postgres, Greenplum, Redshift, Clickhouse, Trino (Presto) // Google Cloud Platform (GCP), Amazon Web Services (AWS) // Kubernetes (K8S), Docker, Ansible, Terraform, Jenkins // Airflow
+Python, Groovy // Hadoop, Spark // SQL, Hive, Postgres, Greenplum, Redshift, Clickhouse, Trino (Presto) // Google Cloud Platform (GCP), Amazon Web Services (AWS) // Kubernetes (K8S), Docker, dbt, Ansible, Terraform, Jenkins // Airflow
 
 💻 **Side activities** 
 
