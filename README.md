@@ -4,7 +4,7 @@ Hey, my name is Simon and I am Big Data Engineer / Product Engineer / Software D
 
 🚦 **Current Status**
 
-Not looking for a job and at the current moment not interested in any job offers.
+Due to the current geo-political situation in Russia, open to offers with relocation: Netherlands, Canada, Sweden, Finland, USA.
 
 🏢 **Work Experience** 
 
