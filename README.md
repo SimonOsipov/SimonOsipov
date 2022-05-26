@@ -1,6 +1,6 @@
 ### Simon is here 👋
 
-Hey, my name is Simon and I am Big Data Engineer / Product Engineer / Software Developer / Analytics Engineer / DataOps Engineer. I can do a lot of roles =) and this is for the search optimisation.
+Hey, my name is Simon and I am Big Data Engineer / Analytics Engineer / DataOps Engineer. I can do a lot of roles =) and this is for the search optimisation.
 
 🚦 **Current Status**
 
