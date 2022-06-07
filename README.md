@@ -8,7 +8,7 @@ Due to the current geo-political situation in Russia, open to offers with reloca
 
 🏢 **Work Experience** 
 
-  - Senior Data Engineer / Analytics Engineer @ [GETT](https://gett.com/) Jan22 - ... 
+  - Senior Data Engineer -> ML & Data Ops Lead @ [GETT](https://gett.com/) Jan22 - ... 
   - Data Engineer @ [SEMrush](https://semrush.com/) Apr21 - Jan22
   - Data Engineer @ [X5 Retail Group](https://www.x5.ru/ru) Feb19 - Apr21
 
