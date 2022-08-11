@@ -20,7 +20,7 @@ Python, Groovy // Hadoop, Spark // SQL, Hive, Postgres, Greenplum, Redshift, Cli
 
   - TG Channel (RUS) @ ["Труба Данных"](https://t.me/ohmydataengineer)
   - Committee Member @ [MoscowPythonConf++](https://conf.python.ru/)
-  - Former Founder @ [Learn.Python.Ru](learn.python.ru)
+  - Founder @ [Learn.Python.Ru](learn.python.ru)
   - Former Curator @ [Coursera Big Data Engineer Specialization](https://bigdatateam.org/big-data-engineering)
   - Former Lecturer @ [X5 Analytics School](http://x5-academy.ru/) & [X5 Coding School](https://x5-frontend-academy.ru/)
 
