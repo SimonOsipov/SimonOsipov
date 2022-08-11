@@ -4,7 +4,7 @@ Hey, my name is Simon and I am Big Data Engineer / Analytics Engineer / DataOps 
 
 🚦 **Current Status**
 
-Due to the current geo-political situation in Russia, open to offers with relocation: Netherlands, Canada, Sweden, Finland, USA.
+Not open to any offers.
 
 🏢 **Work Experience** 
 
