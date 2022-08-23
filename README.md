@@ -1,6 +1,6 @@
 ### Simon is here 👋
 
-Hey, my name is Simon and I am Big Data Engineer / Analytics Engineer / DataOps Engineer. I can do a lot of roles =) and this is for the search optimisation.
+Hey, my name is Simon and I am Big Data Engineer / MLOps & DataOps Engineer / Data Engineering Team Lead. I can do a lot of roles =) and this is for the search optimisation.
 
 🚦 **Current Status**
 
@@ -8,7 +8,7 @@ Not open to any offers.
 
 🏢 **Work Experience** 
 
-  - Senior Data Engineer -> ML & Data Ops Lead @ [GETT](https://gett.com/) Jan22 - ... 
+  - Senior Data Engineer -> ML & Data Ops Lead -> Data Engineering Team Lead @ [GETT](https://gett.com/) Jan22 - ... 
   - Data Engineer @ [SEMrush](https://semrush.com/) Apr21 - Jan22
   - Data Engineer @ [X5 Retail Group](https://www.x5.ru/ru) Feb19 - Apr21
 
