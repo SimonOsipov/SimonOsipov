@@ -4,7 +4,7 @@ Hey, my name is Simon and I am Big Data Engineer / MLOps & DataOps Engineer / Da
 
 🚦 **Current Status**
 
-Not open to any offers.
+Open to offers from HFT & Investing, Robotics, Self-Driving, or Space industry.
 
 🏢 **Work Experience** 
 
