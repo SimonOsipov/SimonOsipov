@@ -8,7 +8,7 @@ Open to offers from Self-Driving, Space industry, HFT & Investing, and Robotics.
 
 🏢 **Work Experience** 
 
-  - Senior Data Engineer -> ML & Data Ops Lead -> Data Engineering Team Lead @ [GETT](https://gett.com/) Jan22 - ... 
+  - Senior Data Engineer -> Data Platform Team Lead & Tech Lead @ [GETT](https://gett.com/) Jan22 - ... 
   - Data Engineer @ [SEMrush](https://semrush.com/) Apr21 - Jan22
   - Data Engineer @ [X5 Retail Group](https://www.x5.ru/ru) Feb19 - Apr21
 
