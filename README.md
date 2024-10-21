@@ -4,7 +4,7 @@ Hey, my name is Simon and I am Big Data Engineer / MLOps & DataOps Engineer / Da
 
 🚦 **Current Status**
 
-Open to offers.
+Not open to offers.
 
 🌱 **Current tech stack** 
 
@@ -12,7 +12,7 @@ Python, Go, Groovy // Hadoop, Spark // SQL, Hive, Postgres, Greenplum, Redshift,
 
 💻 **Side activities** 
 
-  - TG Channels (RUS) @ ["Труба Данных"](https://t.me/ohmydataengineer) @ ["Осторожно, карьерные работы"](https://t.me/career_works)
+  - TG Channels (RUS) @ ["Труба Данных"](https://t.me/ohmydataengineer)
 
 📫 **How to reach me**
 
