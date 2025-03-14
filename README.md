@@ -2,13 +2,9 @@
 
 Hey, my name is Simon and I am Big Data Engineer / MLOps & DataOps Engineer / Data Engineering Team Lead / Data Engineering Tech Lead. I can do a lot of roles =) and this is for search optimization.
 
-🚦 **Current Status**
-
-Not open to offers.
-
 🌱 **Current tech stack** 
 
-Python, Go, Groovy // Hadoop, Spark // SQL, Hive, Postgres, Greenplum, Redshift, Clickhouse, Trino (Presto) // Google Cloud Platform (GCP), Amazon Web Services (AWS) // Kubernetes (K8S), Docker, dbt, Ansible, Terraform, Jenkins // Airflow
+Python, Go, Groovy, Rust // Hadoop, Spark // SQL, Hive, Postgres, Greenplum, Kafka, Redshift, Clickhouse, Trino (Presto), Snowflake, Databricks // Google Cloud Platform (GCP), Amazon Web Services (AWS) // Kubernetes (K8S), Docker, dbt, Ansible, Terraform, Jenkins // Airflow, Dagster
 
 💻 **Side activities** 
 
