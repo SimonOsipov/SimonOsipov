@@ -6,10 +6,6 @@ Hey, my name is Simon and I am Big Data Engineer / MLOps & DataOps Engineer / Da
 
 Python, Go, Groovy, Rust // Hadoop, Spark // SQL, Hive, Postgres, Greenplum, Kafka, Redshift, Clickhouse, Trino (Presto), Snowflake, Databricks // Google Cloud Platform (GCP), Amazon Web Services (AWS) // Kubernetes (K8S), Docker, dbt, Ansible, Terraform, Jenkins // Airflow, Dagster
 
-💻 **Side activities** 
-
-  - TG Channels (RUS) @ ["Труба Данных"](https://t.me/ohmydataengineer)
-
 📫 **How to reach me**
 
 My email is on the left and below are social networks:
